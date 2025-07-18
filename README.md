@@ -1,0 +1,2 @@
+# lxlxlxy-HUST_Database_experiment
+华中科技大学 数据库系统原理实践头歌代码和复习资料
